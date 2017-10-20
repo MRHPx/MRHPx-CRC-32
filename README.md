@@ -17,4 +17,4 @@ MRHPx CRC-32  supports drag and drop.  And of course it supports for long direct
 
 It's portable, there's no need to install anything.. Just use it,  or delete it when you decided to buy another expensive similar tool :smile:
 
-You can find more interesting tool like this at [MRHPx](https://www.mrhpx.com/) website.
+You can find more interesting tool like this at [MRHPx](http://www.mrhpx.com/) website.
