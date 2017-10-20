@@ -1,4 +1,4 @@
-# MRHPx-CRC-32
+# MRHPx CRC-32
 
 Tested on Windows 7 Ultimate 32Bit
 
